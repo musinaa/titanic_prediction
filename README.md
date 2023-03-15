@@ -1,4 +1,4 @@
-he Titanic dataset is a famous dataset that contains information about the passengers on board the Titanic when it sank on its maiden voyage in 1912. The dataset is often used as a machine learning exercise to predict which passengers survived the disaster. In this description, we will provide an overview of how to predict Titanic survival using Python.
+The Titanic dataset is a famous dataset that contains information about the passengers on board the Titanic when it sank on its maiden voyage in 1912. The dataset is often used as a machine learning exercise to predict which passengers survived the disaster. In this description, we will provide an overview of how to predict Titanic survival using Python.
 
 The first step in any machine learning exercise is to import the necessary libraries. In this case, we will be using Pandas, Numpy, and Scikit-Learn.# titanic_prediction
 Once the libraries are imported, the next step is to load the dataset. The Titanic dataset is available in various formats, including CSV and Excel. For this exercise, we will be using the CSV version of the dataset, which can be downloaded from Kaggle.
